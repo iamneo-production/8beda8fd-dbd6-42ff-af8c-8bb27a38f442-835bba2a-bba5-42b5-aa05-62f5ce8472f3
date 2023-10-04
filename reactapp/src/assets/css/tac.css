@@ -1,0 +1,38 @@
+/* terms-and-conditions.css */
+
+/* Container for the Terms and Conditions */
+.terms-and-conditions-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 2%;
+}
+
+/* Heading for the Terms and Conditions */
+.terms-and-conditions-container h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+
+
+
+/* Content of the Terms and Conditions */
+.terms-content {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+}
+
+/* Styling for section headings */
+.terms-content h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Additional styling for the content can be added here */
