@@ -1,0 +1,51 @@
+/* privacy-policy.css */
+
+/* Container for the Privacy Policy */
+.privacy-policy-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 2%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading for the Privacy Policy */
+  .privacy-policy-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Back Button Link */
+  .back-button {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #007bff; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  /* Back Button Link on Hover */
+  .back-button:hover {
+    text-decoration: underline;
+  }
+  
+  /* Content of the Privacy Policy */
+  .content {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  /* Styling for section headings */
+  .content h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Additional styling for the content can be added here */
+  
